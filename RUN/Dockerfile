@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN apk install nginx -y
+RUN apk install nginx
