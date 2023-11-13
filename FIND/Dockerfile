@@ -1,2 +1,2 @@
 # First argument in docker file
-from centos:8
+FROM centos:8
