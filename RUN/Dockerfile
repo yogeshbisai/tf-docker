@@ -1,2 +1,2 @@
-FROM alpine:latest
-RUN apk add nginx
+FROM almainux:latest
+RUN yum install nginx -y
