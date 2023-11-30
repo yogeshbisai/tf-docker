@@ -1,0 +1,5 @@
+- name : Test file
+  host: abc
+  parameters:
+    OSType: amzn2
+    
